@@ -1,2 +1,3 @@
 # hello-world
-First one
+A bit about myself.
+and message that describes my changes =).
